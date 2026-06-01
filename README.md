@@ -163,7 +163,7 @@ OLA-Ride-Booking-Analytics/
 
 ### Vehicle Analysis
 
-![Vehicle](Vehicle_type.png)
+![Vehicle](Vehicle Type.png)
 
 ### Revenue Dashboard
 
@@ -171,11 +171,11 @@ OLA-Ride-Booking-Analytics/
 
 ### Cancellation Dashboard
 
-![Cancellation](Cancellation.png)
+![Cancellation](Cancelation.png)
 
 ### Ratings Dashboard
 
-![Ratings](Ratings.png)
+![Ratings](Rating.png)
 
 ---
 
